@@ -44,4 +44,8 @@ You are provided with the historical data of the recommended coupons along with 
      * Multiple Bar chart
      * Line Chart
    - Correlation and Multi collinearity  
-   
+  * Apply machine learning model
+   - Train the machine learning model on the train data and apply cross validation
+   - Tune the parameters to improve the validation scores
+   - After you are satisfied with the model's performance, make predictions on the provided “test set”  
+   - Validate the predicted values with the Test data available.
